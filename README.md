@@ -65,3 +65,4 @@ Post-migration validation summary.
 
 *OUTPUT*:
 
+[task 3 output.pdf](https://github.com/user-attachments/files/20790488/task.3.output.pdf)
